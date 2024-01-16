@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.ljd.esp"
+    },
+    "cordova-plugin-networkinterface": {
+      "PACKAGE_NAME": "com.ljd.esp"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.ljd.esp"
+    }
+  },
+  "dependent_plugins": {}
+}

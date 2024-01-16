@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "esp32Lock",
+			"path": "esp32Lock"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"system_error": "cpp"
+		}
+	}
+}
